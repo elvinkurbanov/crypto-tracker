@@ -1,0 +1,1164 @@
+{
+  "generated_at_utc": "2026-11-17T01:15:25+00:00",
+  "generated_at_local": "2026-11-17 10:15 KST",
+  "currency": "usd",
+  "markets": {
+    "bitcoin": {
+      "price": 64678,
+      "market_cap": 1300813231486,
+      "rank": 1,
+      "fdv": 1300813231486,
+      "volume_24h": 32630540830,
+      "high_24h": 65502,
+      "low_24h": 63879,
+      "chg_1h": -0.4266,
+      "chg_24h": -0.29336,
+      "chg_7d": -14.1809,
+      "chg_30d": -20.6553,
+      "chg_1y": -31.4211,
+      "circulating_supply": 20113106.0,
+      "total_supply": 20113106.0,
+      "max_supply": 21000000.0,
+      "ath": 126080,
+      "ath_change_pct": -48.70103,
+      "ath_date": "2025-10-06",
+      "last_updated": "2026-11-17T01:13:54.000Z",
+      "vol_to_mcap": 2.5084723955893424
+    },
+    "ethereum": {
+      "price": 1817.69,
+      "market_cap": 222134651986,
+      "rank": 2,
+      "fdv": 222134651986,
+      "volume_24h": 11165471078,
+      "high_24h": 1858.45,
+      "low_24h": 1786.78,
+      "chg_1h": -0.3339,
+      "chg_24h": 0.2649,
+      "chg_7d": -14.9429,
+      "chg_30d": -24.4458,
+      "chg_1y": -41.3457,
+      "circulating_supply": 122224475.73780824,
+      "total_supply": 122224475.73780824,
+      "max_supply": null,
+      "ath": 4946.05,
+      "ath_change_pct": -63.24973,
+      "ath_date": "2025-08-24",
+      "last_updated": "2026-11-17T01:13:54.000Z",
+      "vol_to_mcap": 5.026442735599713
+    },
+    "tether": {
+      "price": 0.999292,
+      "market_cap": 175321936604,
+      "rank": 3,
+      "fdv": 180785082115,
+      "volume_24h": 50215664198,
+      "high_24h": 0.99964,
+      "low_24h": 0.999105,
+      "chg_1h": -0.0101,
+      "chg_24h": -0.04085,
+      "chg_7d": 0.0171,
+      "chg_30d": 0.0122,
+      "chg_1y": -0.0202,
+      "circulating_supply": 175443983641.89148,
+      "total_supply": 180910932217.7662,
+      "max_supply": null,
+      "ath": 1.32,
+      "ath_change_pct": -24.47319,
+      "ath_date": "2018-07-23",
+      "last_updated": "2026-11-17T01:13:54.000Z",
+      "vol_to_mcap": 28.64197439902927
+    },
+    "solana": {
+      "price": 71.64,
+      "market_cap": 42390774363,
+      "rank": 7,
+      "fdv": 45685873013,
+      "volume_24h": 2589621340,
+      "high_24h": 72.68,
+      "low_24h": 69.96,
+      "chg_1h": -0.0759,
+      "chg_24h": 0.10635,
+      "chg_7d": -17.4906,
+      "chg_30d": -30.8676,
+      "chg_1y": -47.8949,
+      "circulating_supply": 591684227.8615117,
+      "total_supply": 637676732.8195428,
+      "max_supply": null,
+      "ath": 293.31,
+      "ath_change_pct": -75.5744,
+      "ath_date": "2025-01-19",
+      "last_updated": "2026-11-17T01:13:54.000Z",
+      "vol_to_mcap": 6.108926715573997
+    }
+  },
+  "technicals": {
+    "bitcoin": {
+      "sma50": 79383.37989784875,
+      "sma200": 72871.94294676156,
+      "vs_sma50_pct": -18.512184325395577,
+      "vs_sma200_pct": -11.230880265276767,
+      "rsi14": 23.681368811072772,
+      "rsi_label": "Oversold",
+      "volatility_30d_ann_pct": 44.26769845401151,
+      "max_drawdown_1y_pct": -39.5595035868155,
+      "trend": "Weakening (price below both averages)",
+      "high_1y": 96898.76071081961,
+      "low_1y": 58566.091991843154
+    },
+    "ethereum": {
+      "sma50": 2361.1716733928456,
+      "sma200": 2140.572153513648,
+      "vs_sma50_pct": -23.030283764935234,
+      "vs_sma200_pct": -15.0980669420534,
+      "rsi14": 25.62877654313168,
+      "rsi_label": "Oversold",
+      "volatility_30d_ann_pct": 59.686581441718666,
+      "max_drawdown_1y_pct": -53.27881686799172,
+      "trend": "Weakening (price below both averages)",
+      "high_1y": 3351.816081641762,
+      "low_1y": 1566.0081297519519
+    },
+    "solana": {
+      "sma50": 100.84452835102438,
+      "sma200": 88.73059504176679,
+      "vs_sma50_pct": -29.010210214296382,
+      "vs_sma200_pct": -19.318338107528355,
+      "rsi14": 20.512221251201566,
+      "rsi_label": "Oversold",
+      "volatility_30d_ann_pct": 58.238301127685354,
+      "max_drawdown_1y_pct": -57.560000143489134,
+      "trend": "Weakening (price below both averages)",
+      "high_1y": 146.51080044413305,
+      "low_1y": 62.17918349826299
+    }
+  },
+  "global": {
+    "total_market_cap_usd": 2218430567950.2583,
+    "total_volume_usd": 75397495385.87057,
+    "mcap_change_24h_pct": -1.6941743801668605,
+    "btc_dominance": 58.56020716680918,
+    "eth_dominance": 10.002287632814525,
+    "usdt_dominance": 7.893241393956561,
+    "active_cryptocurrencies": 21855
+  },
+  "fear_greed": {
+    "value": 12,
+    "label": "Extreme Fear",
+    "yesterday": 10,
+    "week_ago": 32
+  },
+  "chain_tvl": {
+    "Ethereum": {
+      "tvl_usd": 37560801809.60231,
+      "tvl_rank": 1
+    },
+    "Solana": {
+      "tvl_usd": 4749281027.580025,
+      "tvl_rank": 3
+    },
+    "Bitcoin": {
+      "tvl_usd": 3432789578.9165626,
+      "tvl_rank": 6
+    }
+  },
+  "usdt": {
+    "circulating_usd": 175271232135.94745,
+    "supply_chg_1d_pct": -0.04076340278509338,
+    "supply_chg_7d_pct": -0.5874644278657137,
+    "supply_chg_30d_pct": -4.4341023787784595,
+    "share_of_all_stablecoins_pct": 60.952318944660824,
+    "total_stablecoin_supply_usd": 287554657756.46344,
+    "top_chains": [
+      {
+        "chain": "Tron",
+        "usd": 91784128474.8761,
+        "share_pct": 52.366910049268455
+      },
+      {
+        "chain": "Ethereum",
+        "usd": 66738506701.245125,
+        "share_pct": 38.07727365634084
+      },
+      {
+        "chain": "BSC",
+        "usd": 9177074143.034983,
+        "share_pct": 5.2359272147507205
+      },
+      {
+        "chain": "Solana",
+        "usd": 2003200552.0201333,
+        "share_pct": 1.1429146287203424
+      },
+      {
+        "chain": "Plasma",
+        "usd": 1068650937.8978621,
+        "share_pct": 0.6097126863745519
+      },
+      {
+        "chain": "Arbitrum",
+        "usd": 883830919.568993,
+        "share_pct": 0.504264680973691
+      }
+    ]
+  },
+  "btc_network": null,
+  "eth_network": {
+    "gas_gwei": 0.116512324,
+    "block": 26431411
+  },
+  "sol_network": {
+    "tps_total": 2122.741666666667,
+    "tps_non_vote": 2122.74,
+    "epoch": 1088,
+    "epoch_progress_pct": 76.29560185185184
+  },
+  "etf_flows": {
+    "bitcoin": {
+      "latest_date": "2026-11-16",
+      "latest_usd": -46500000.0,
+      "net_7d_usd": -910800000.0,
+      "net_prev_7d_usd": -1084100000.0,
+      "net_14d_usd": -1994900000.0,
+      "trading_days_14d": 10,
+      "inflow_days_14d": 1,
+      "outflow_days_14d": 9,
+      "streak_days": 8,
+      "streak_dir": "outflow",
+      "cumulative_usd": -3019500000.0,
+      "cumulative_since": "2026-10-29",
+      "top_in_14d": [
+        [
+          "MSBT",
+          56200000.0
+        ],
+        [
+          "BTCO",
+          4000000.0
+        ]
+      ],
+      "top_out_14d": [
+        [
+          "IBIT",
+          -1712600000.0
+        ],
+        [
+          "GBTC",
+          -134700000.0
+        ],
+        [
+          "BTC",
+          -59200000.0
+        ]
+      ],
+      "daily": [
+        {
+          "date": "2026-11-03",
+          "usd": -115600000.0
+        },
+        {
+          "date": "2026-11-04",
+          "usd": 74600000.0
+        },
+        {
+          "date": "2026-11-05",
+          "usd": -430200000.0
+        },
+        {
+          "date": "2026-11-06",
+          "usd": -411900000.0
+        },
+        {
+          "date": "2026-11-09",
+          "usd": -201000000.0
+        },
+        {
+          "date": "2026-11-10",
+          "usd": -95000000.0
+        },
+        {
+          "date": "2026-11-11",
+          "usd": -299800000.0
+        },
+        {
+          "date": "2026-11-12",
+          "usd": -284100000.0
+        },
+        {
+          "date": "2026-11-13",
+          "usd": -185400000.0
+        },
+        {
+          "date": "2026-11-16",
+          "usd": -46500000.0
+        }
+      ],
+      "pending_dates": [],
+      "source": "Farside Investors"
+    },
+    "ethereum": {
+      "latest_date": "2026-11-16",
+      "latest_usd": -3400000.0,
+      "net_7d_usd": -217700000.0,
+      "net_prev_7d_usd": -410100000.0,
+      "net_14d_usd": -627800000.0,
+      "trading_days_14d": 10,
+      "inflow_days_14d": 2,
+      "outflow_days_14d": 8,
+      "streak_days": 1,
+      "streak_dir": "outflow",
+      "cumulative_usd": -1028700000.0,
+      "cumulative_since": "2026-10-29",
+      "top_in_14d": [
+        [
+          "ETHE",
+          4800000.0
+        ],
+        [
+          "FETH",
+          3200000.0
+        ],
+        [
+          "MSSE",
+          1600000.0
+        ]
+      ],
+      "top_out_14d": [
+        [
+          "ETHA",
+          -518700000.0
+        ],
+        [
+          "ETHB",
+          -68300000.0
+        ],
+        [
+          "ETH",
+          -41200000.0
+        ]
+      ],
+      "daily": [
+        {
+          "date": "2026-11-03",
+          "usd": -85300000.0
+        },
+        {
+          "date": "2026-11-04",
+          "usd": 53000000.0
+        },
+        {
+          "date": "2026-11-05",
+          "usd": -99900000.0
+        },
+        {
+          "date": "2026-11-06",
+          "usd": -93300000.0
+        },
+        {
+          "date": "2026-11-09",
+          "usd": -184600000.0
+        },
+        {
+          "date": "2026-11-10",
+          "usd": -1300000.0
+        },
+        {
+          "date": "2026-11-11",
+          "usd": -144800000.0
+        },
+        {
+          "date": "2026-11-12",
+          "usd": -70500000.0
+        },
+        {
+          "date": "2026-11-13",
+          "usd": 2300000.0
+        },
+        {
+          "date": "2026-11-16",
+          "usd": -3400000.0
+        }
+      ],
+      "pending_dates": [],
+      "source": "Farside Investors"
+    },
+    "solana": {
+      "latest_date": "2026-11-16",
+      "latest_usd": 10800000.0,
+      "net_7d_usd": -13500000.0,
+      "net_prev_7d_usd": -32700000.0,
+      "net_14d_usd": -46200000.0,
+      "trading_days_14d": 10,
+      "inflow_days_14d": 1,
+      "outflow_days_14d": 7,
+      "streak_days": 1,
+      "streak_dir": "inflow",
+      "cumulative_usd": -84700000.0,
+      "cumulative_since": "2026-10-29",
+      "top_in_14d": [],
+      "top_out_14d": [
+        [
+          "BSOL",
+          -16000000.0
+        ],
+        [
+          "FSOL",
+          -11300000.0
+        ],
+        [
+          "GSOL",
+          -8600000.0
+        ]
+      ],
+      "daily": [
+        {
+          "date": "2026-11-03",
+          "usd": 0.0
+        },
+        {
+          "date": "2026-11-04",
+          "usd": 0.0
+        },
+        {
+          "date": "2026-11-05",
+          "usd": -800000.0
+        },
+        {
+          "date": "2026-11-06",
+          "usd": -24200000.0
+        },
+        {
+          "date": "2026-11-09",
+          "usd": -7700000.0
+        },
+        {
+          "date": "2026-11-10",
+          "usd": -13400000.0
+        },
+        {
+          "date": "2026-11-11",
+          "usd": -5900000.0
+        },
+        {
+          "date": "2026-11-12",
+          "usd": -1900000.0
+        },
+        {
+          "date": "2026-11-13",
+          "usd": -3100000.0
+        },
+        {
+          "date": "2026-11-16",
+          "usd": 10800000.0
+        }
+      ],
+      "pending_dates": [],
+      "source": "Farside Investors"
+    }
+  },
+  "stablecoin_flows": {
+    "USDT (all chains)": {
+      "as_of": "2026-11-16",
+      "now_usd": 175345360594.66,
+      "chg_1d_usd": -36013506.33999634,
+      "chg_7d_usd": -1456686028.3399963,
+      "chg_14d_usd": -3816998980.3399963,
+      "chg_30d_usd": -8134758277.339996,
+      "chg_prev_7d_usd": -2360312952.0,
+      "daily": [
+        {
+          "date": "2026-11-03",
+          "usd": -578469066.0
+        },
+        {
+          "date": "2026-11-04",
+          "usd": -412355101.0
+        },
+        {
+          "date": "2026-11-05",
+          "usd": -522493120.0
+        },
+        {
+          "date": "2026-11-06",
+          "usd": -362564500.0
+        },
+        {
+          "date": "2026-11-07",
+          "usd": -508889251.0
+        },
+        {
+          "date": "2026-11-08",
+          "usd": 9881876.0
+        },
+        {
+          "date": "2026-11-09",
+          "usd": 14576210.0
+        },
+        {
+          "date": "2026-11-10",
+          "usd": -547126457.0
+        },
+        {
+          "date": "2026-11-11",
+          "usd": -508510192.0
+        },
+        {
+          "date": "2026-11-12",
+          "usd": -84829588.0
+        },
+        {
+          "date": "2026-11-13",
+          "usd": -126427833.0
+        },
+        {
+          "date": "2026-11-14",
+          "usd": -271529339.0
+        },
+        {
+          "date": "2026-11-15",
+          "usd": 117750887.0
+        },
+        {
+          "date": "2026-11-16",
+          "usd": -36013506.33999634
+        }
+      ]
+    },
+    "All stablecoins": {
+      "as_of": "2026-11-16",
+      "now_usd": 287100084698.21,
+      "chg_1d_usd": 3315949.2100219727,
+      "chg_7d_usd": -4123168724.789978,
+      "chg_14d_usd": -8552542460.789978,
+      "chg_30d_usd": -15630500899.789978,
+      "chg_prev_7d_usd": -4429373736.0,
+      "daily": [
+        {
+          "date": "2026-11-03",
+          "usd": -960119093.0
+        },
+        {
+          "date": "2026-11-04",
+          "usd": -856035246.0
+        },
+        {
+          "date": "2026-11-05",
+          "usd": -487989618.0
+        },
+        {
+          "date": "2026-11-06",
+          "usd": -1017692686.0
+        },
+        {
+          "date": "2026-11-07",
+          "usd": -883160718.0
+        },
+        {
+          "date": "2026-11-08",
+          "usd": 45223325.0
+        },
+        {
+          "date": "2026-11-09",
+          "usd": -269599700.0
+        },
+        {
+          "date": "2026-11-10",
+          "usd": -847029822.0
+        },
+        {
+          "date": "2026-11-11",
+          "usd": -893113348.0
+        },
+        {
+          "date": "2026-11-12",
+          "usd": -416672914.0
+        },
+        {
+          "date": "2026-11-13",
+          "usd": -1292704258.0
+        },
+        {
+          "date": "2026-11-14",
+          "usd": -720280485.0
+        },
+        {
+          "date": "2026-11-15",
+          "usd": 43316153.0
+        },
+        {
+          "date": "2026-11-16",
+          "usd": 3315949.2100219727
+        }
+      ]
+    },
+    "Stablecoins on Ethereum": {
+      "as_of": "2026-11-16",
+      "now_usd": 132466415669.63,
+      "chg_1d_usd": -202527750.36999512,
+      "chg_7d_usd": -3238348627.369995,
+      "chg_14d_usd": -7912447803.369995,
+      "chg_30d_usd": -11929842354.369995,
+      "chg_prev_7d_usd": -4674099176.0,
+      "daily": [
+        {
+          "date": "2026-11-03",
+          "usd": -958893165.0
+        },
+        {
+          "date": "2026-11-04",
+          "usd": -1120025561.0
+        },
+        {
+          "date": "2026-11-05",
+          "usd": -854595368.0
+        },
+        {
+          "date": "2026-11-06",
+          "usd": -471528152.0
+        },
+        {
+          "date": "2026-11-07",
+          "usd": -1137817832.0
+        },
+        {
+          "date": "2026-11-08",
+          "usd": -111758675.0
+        },
+        {
+          "date": "2026-11-09",
+          "usd": -19480423.0
+        },
+        {
+          "date": "2026-11-10",
+          "usd": -553771938.0
+        },
+        {
+          "date": "2026-11-11",
+          "usd": -1020010079.0
+        },
+        {
+          "date": "2026-11-12",
+          "usd": -369324153.0
+        },
+        {
+          "date": "2026-11-13",
+          "usd": -1227989036.0
+        },
+        {
+          "date": "2026-11-14",
+          "usd": -374793795.0
+        },
+        {
+          "date": "2026-11-15",
+          "usd": 510068124.0
+        },
+        {
+          "date": "2026-11-16",
+          "usd": -202527750.36999512
+        }
+      ]
+    },
+    "Stablecoins on Solana": {
+      "as_of": "2026-11-16",
+      "now_usd": 14256923688.48,
+      "chg_1d_usd": 115410184.47999954,
+      "chg_7d_usd": -186106309.52000046,
+      "chg_14d_usd": -287227263.52000046,
+      "chg_30d_usd": -816721612.5200005,
+      "chg_prev_7d_usd": -101120954.0,
+      "daily": [
+        {
+          "date": "2026-11-03",
+          "usd": 65363378.0
+        },
+        {
+          "date": "2026-11-04",
+          "usd": -340264940.0
+        },
+        {
+          "date": "2026-11-05",
+          "usd": 364844614.0
+        },
+        {
+          "date": "2026-11-06",
+          "usd": -252004444.0
+        },
+        {
+          "date": "2026-11-07",
+          "usd": 49473901.0
+        },
+        {
+          "date": "2026-11-08",
+          "usd": 93572245.0
+        },
+        {
+          "date": "2026-11-09",
+          "usd": -82105708.0
+        },
+        {
+          "date": "2026-11-10",
+          "usd": -179416704.0
+        },
+        {
+          "date": "2026-11-11",
+          "usd": -46457747.0
+        },
+        {
+          "date": "2026-11-12",
+          "usd": -71797221.0
+        },
+        {
+          "date": "2026-11-13",
+          "usd": 149673526.0
+        },
+        {
+          "date": "2026-11-14",
+          "usd": -151923410.0
+        },
+        {
+          "date": "2026-11-15",
+          "usd": -1594938.0
+        },
+        {
+          "date": "2026-11-16",
+          "usd": 115410184.47999954
+        }
+      ]
+    },
+    "Stablecoins on Tron": {
+      "as_of": "2026-11-16",
+      "now_usd": 93341326447.61,
+      "chg_1d_usd": -39221515.38999939,
+      "chg_7d_usd": -334284335.3899994,
+      "chg_14d_usd": -441405763.3899994,
+      "chg_30d_usd": -1174562798.3899994,
+      "chg_prev_7d_usd": -107121428.0,
+      "daily": [
+        {
+          "date": "2026-11-03",
+          "usd": 13624896.0
+        },
+        {
+          "date": "2026-11-04",
+          "usd": 333910309.0
+        },
+        {
+          "date": "2026-11-05",
+          "usd": -37897247.0
+        },
+        {
+          "date": "2026-11-06",
+          "usd": -224801161.0
+        },
+        {
+          "date": "2026-11-07",
+          "usd": -196690087.0
+        },
+        {
+          "date": "2026-11-08",
+          "usd": 769823.0
+        },
+        {
+          "date": "2026-11-09",
+          "usd": 3962039.0
+        },
+        {
+          "date": "2026-11-10",
+          "usd": -10042285.0
+        },
+        {
+          "date": "2026-11-11",
+          "usd": -69463584.0
+        },
+        {
+          "date": "2026-11-12",
+          "usd": 1019103.0
+        },
+        {
+          "date": "2026-11-13",
+          "usd": -139972199.0
+        },
+        {
+          "date": "2026-11-14",
+          "usd": -64268674.0
+        },
+        {
+          "date": "2026-11-15",
+          "usd": -12335181.0
+        },
+        {
+          "date": "2026-11-16",
+          "usd": -39221515.38999939
+        }
+      ]
+    }
+  },
+  "news": {
+    "bitcoin": [
+      {
+        "source": "Decrypt",
+        "title": "Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again",
+        "link": "https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data",
+        "published": "2026-11-16 22:18:03+00:00",
+        "summary": "A second Trezor shipping partner was breached in three months, exposing buyers' addresses and order details.",
+        "coins": [
+          "bitcoin"
+        ]
+      },
+      {
+        "source": "CryptoSlate",
+        "title": "Bitcoin Lightning developers patch bug that could make completed payments disappear",
+        "link": "https://cryptoslate.com/bitcoin-lightning-developers-patch-bug-that-could-make-completed-payments-disappear/",
+        "published": "2026-11-16 22:10:43+00:00",
+        "summary": "LND's November 11 releases prevent a specific update-log overflow from omitting settled HTLCs when channel state is rebuilt. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+        "coins": [
+          "bitcoin"
+        ]
+      },
+      {
+        "source": "Cointelegraph",
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "2026-11-16 22:07:36+00:00",
+        "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "coins": [
+          "bitcoin"
+        ]
+      },
+      {
+        "source": "Decrypt",
+        "title": "Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000",
+        "link": "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000",
+        "published": "2026-11-16 21:46:03+00:00",
+        "summary": "Bitcoin fell near $62,100 as forced liquidations swept crypto markets. ETF withdrawals and a crowded options trade offer a closer look at the damage left behind.",
+        "coins": [
+          "bitcoin"
+        ]
+      },
+      {
+        "source": "Bitcoin Magazine",
+        "title": "Why Bitcoin\u2019s June Low May Not Be the Bottom \u2014 $58K the Key Test",
+        "link": "https://bitcoinmagazine.com/videos/why-bitcoins-june-low-may-not-be-the-bottom-58k-the-key-test",
+        "published": "2026-11-16 21:43:56+00:00",
+        "summary": "\u25b6 Bitcoin Magazine Why Bitcoin\u2019s June Low May Not Be the Bottom \u2014 $58K the Key Test Sean breaks down Bitcoin's MVRV on today's Chart of the Day. This post Why Bitcoin\u2019s June Low May Not Be the Bottom \u2014 $58K the Key Test first appeared on Bitcoin Magazine and is written by Patrick",
+        "coins": [
+          "bitcoin"
+        ]
+      },
+      {
+        "source": "Bitcoin Magazine",
+        "title": "Bitcoin Price Holds Near $65,000 as Nvidia Turmoil Drags Nasdaq Down 2.5%",
+        "link": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-65000-nvidia",
+        "published": "2026-11-16 21:20:36+00:00",
+        "summary": "Bitcoin Magazine Bitcoin Price Holds Near $65,000 as Nvidia Turmoil Drags Nasdaq Down 2.5% Bitcoin price held near $65,000 on Monday afternoon, shrugging off a 2.5% Nasdaq slide as Nvidia's board ruled out bringing back Jensen Huang and the dollar hit a 19-month high. This post B",
+        "coins": [
+          "bitcoin"
+        ]
+      },
+      {
+        "source": "Decrypt",
+        "title": "Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says",
+        "link": "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor",
+        "published": "2026-11-16 21:16:03+00:00",
+        "summary": "Luxor said hackers redirected hashrate from just over a dozen client accounts through its Commander tool, and its CEO blamed a \u201csophisticated AI-enabled vector.\u201d",
+        "coins": [
+          "bitcoin"
+        ]
+      },
+      {
+        "source": "Cointelegraph",
+        "title": "Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump",
+        "link": "https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "2026-11-16 20:45:47+00:00",
+        "summary": "Strategy, Strive, Bitmine and Cypherpunk disclosed fresh additions to their crypto treasuries, spanning Bitcoin, Ether and Zcash.",
+        "coins": [
+          "bitcoin",
+          "ethereum"
+        ]
+      }
+    ],
+    "ethereum": [
+      {
+        "source": "Cointelegraph",
+        "title": "Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump",
+        "link": "https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "2026-11-16 20:45:47+00:00",
+        "summary": "Strategy, Strive, Bitmine and Cypherpunk disclosed fresh additions to their crypto treasuries, spanning Bitcoin, Ether and Zcash.",
+        "coins": [
+          "bitcoin",
+          "ethereum"
+        ]
+      },
+      {
+        "source": "Decrypt",
+        "title": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
+        "link": "https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys",
+        "published": "2026-11-16 20:36:03+00:00",
+        "summary": "The firm\u2019s stash fell to $11.8 billion from $14.3 billion a week earlier as ETH slid 28% in two weeks, a \u201cwaterfall\u201d drop chairman Tom Lee blames on Nvidia fallout and cash-raising ahead of Anthropic\u2019s IPO.",
+        "coins": [
+          "ethereum"
+        ]
+      },
+      {
+        "source": "The Block",
+        "title": "Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case",
+        "link": "https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425",
+        "published": "2026-11-16 20:30:37+00:00",
+        "summary": "A judge acquitted the Peraire-Bueno brothers of wire fraud over the Ethereum MEV exploit, ruling prosecutors showed no misrepresentation.",
+        "coins": [
+          "ethereum"
+        ]
+      },
+      {
+        "source": "The Block",
+        "title": "Tom Lee says Ethereum\u2019s \u2018waterfall decline in price\u2019 defies fundamentals as Bitmine adds 7,653 ETH",
+        "link": "https://www.theblock.co/news/business/2026-11-16-tom-lee-ethereum-waterfall-decline-price-defies-fundamentals-bitmine-adds-7653-eth-440904",
+        "published": "2026-11-16 15:00:18+00:00",
+        "summary": "Bitmine acquired 7,653 ETH as Tom Lee questioned the rate of ether's recent decline against improving institutional developments.",
+        "coins": [
+          "ethereum"
+        ]
+      },
+      {
+        "source": "The Block",
+        "title": "Layer 2 Scaling Explained",
+        "link": "https://www.theblock.co/learn/basics/layer-2-scaling-explained-436103",
+        "published": "2026-11-16 14:56:48+00:00",
+        "summary": "Layer 2 101 explains why blockchains need to scale and how Layer 2s help. It covers rollups, sidechains and appchains, monolithic vs modular design, Layer 2 tokens and incentives, and the trade-offs between speed, cost and security.",
+        "coins": [
+          "ethereum"
+        ]
+      },
+      {
+        "source": "Cointelegraph",
+        "title": "Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings",
+        "link": "https://cointelegraph.com/news/binance-pay-later-crypto-backed-credit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "2026-11-16 13:00:00+00:00",
+        "summary": "Eligible users can access up to 1,000 USDC in credit against their Bitcoin, Ether or BNB for purchases via Binance Card or QR Pay.",
+        "coins": [
+          "bitcoin",
+          "ethereum"
+        ]
+      },
+      {
+        "source": "The Block",
+        "title": "Vitalik Buterin backs higher gas costs for creating accounts and deploying smart contracts to help Ethereum scale",
+        "link": "https://www.theblock.co/news/ecosystems/2026-11-16-vitalik-buterin-backs-higher-gas-costs-for-creating-accounts-and-deploying-smart-contracts-to-help-ethereum-scale-440870",
+        "published": "2026-11-16 10:29:30+00:00",
+        "summary": "Buterin defended Ethereum's proposed gas repricing, citing the need to increase transaction capacity without compromising decentralization.",
+        "coins": [
+          "ethereum"
+        ]
+      },
+      {
+        "source": "Decrypt",
+        "title": "Vitalik Buterin Now \u2018a Total Bull\u2019 on leanPCS as Fast Track to Quantum-Safe Ethereum",
+        "link": "https://decrypt.co/383294/vitalik-buterin-now-a-total-bull-on-leanpcs-as-fast-track-to-quantum-safe-ethereum",
+        "published": "2026-11-16 09:54:55+00:00",
+        "summary": "The Ethereum co-founder says proof aggregation could deliver a \"cryptographic proof singularity\" much sooner than developers expected.",
+        "coins": [
+          "ethereum"
+        ]
+      }
+    ],
+    "solana": [
+      {
+        "source": "The Block",
+        "title": "Bitwise sees Solana reaching $1,100 by 2031 in bull case as onchain trading grows",
+        "link": "https://www.theblock.co/news/markets/2026-11-16-bitwise-solana-price-prediction-1100-2031-441407",
+        "published": "2026-11-16 20:27:32+00:00",
+        "summary": "Bitwise predicts the SOL token will be valued at $1,100 by 2031, versus $385 in the base case and $80 in the bear case.",
+        "coins": [
+          "solana"
+        ]
+      },
+      {
+        "source": "The Block",
+        "title": "Privacy on Solana is \u2018non-negotiable\u2019 for institutional adoption, Mert Mumtaz says",
+        "link": "https://www.theblock.co/news/ecosystems/2026-11-16-privacy-solana-non-negotiable-institutional-adoption-mert-mumtaz-says-441363",
+        "published": "2026-11-16 17:22:19+00:00",
+        "summary": "Mert Mumtaz sees privacy becoming standard on blockchains, much like HTTPS did for the modern internet.",
+        "coins": [
+          "solana"
+        ]
+      },
+      {
+        "source": "Decrypt",
+        "title": "'Tokenization Is Not the Finish Line': Jupiter to Let Users Borrow Against Bullish Shares",
+        "link": "https://decrypt.co/383333/tokenization-is-not-the-finish-line-jupiter-to-let-users-borrow-against-bullish-shares",
+        "published": "2026-11-16 17:09:28+00:00",
+        "summary": "The Solana trading platform unveiled a permissioned lending market, identity passport and issuer liquidity services at Breakpoint.",
+        "coins": [
+          "solana"
+        ]
+      },
+      {
+        "source": "The Block",
+        "title": "Boris Johnson backs tokenization months after likening bitcoin to a \u2018Ponzi scheme\u2019",
+        "link": "https://www.theblock.co/news/regulation/2026-11-16-boris-johnson-backs-tokenization-months-after-bitcoin-to-ponzi-scheme-441368",
+        "published": "2026-11-16 16:49:23+00:00",
+        "summary": "Boris Johnson backed blockchain and tokenization at Solana Breakpoint but reiterated his concerns about crypto speculation.",
+        "coins": [
+          "bitcoin",
+          "solana"
+        ]
+      },
+      {
+        "source": "The Block",
+        "title": "DeFi Development Corp. adds 9,482 SOL as CHAD dividend streak hits 31 days",
+        "link": "https://www.theblock.co/news/markets/2026-11-16-defi-development-solana-treasury-2-62-million-sol-441361",
+        "published": "2026-11-16 16:16:17+00:00",
+        "summary": "DeFi Development added 9,482 SOL last week, lifting its Solana treasury to about 2.62 million tokens in its 10th straight week of growth.",
+        "coins": [
+          "solana"
+        ]
+      },
+      {
+        "source": "Decrypt",
+        "title": "Solana Drops 'Mainnet Beta' After Six Years: Here's What 1.0 Is All About",
+        "link": "https://decrypt.co/383322/solana-drops-mainnet-beta-after-six-years",
+        "published": "2026-11-16 16:14:22+00:00",
+        "summary": "Solana's 1.0 designation gives developers a common way to track network rules. Here's what it means for users and builders.",
+        "coins": [
+          "solana"
+        ]
+      },
+      {
+        "source": "Decrypt",
+        "title": "DTCC, Barclays Say Tokenization's Real Prize Is Unlocking Idle Collateral",
+        "link": "https://decrypt.co/383316/dtcc-barclays-say-tokenizations-real-prize-is-unlocking-idle-collateral",
+        "published": "2026-11-16 16:11:31+00:00",
+        "summary": "Executives from the U.S. settlement giant and Barclays told Solana's Breakpoint that adoption is early, but accelerating.",
+        "coins": [
+          "solana"
+        ]
+      },
+      {
+        "source": "Decrypt",
+        "title": "'Nobody Knows Who's in Charge': Boris Johnson Stands by Bitcoin Skepticism at Breakpoint",
+        "link": "https://decrypt.co/383307/nobody-knows-whos-in-charge-boris-johnson-stands-by-bitcoin-skepticism-at-breakpoint",
+        "published": "2026-11-16 15:04:56+00:00",
+        "summary": "The former UK prime minister told a Solana conference he backs blockchain but still doubts Bitcoin, months after calling it a Ponzi.",
+        "coins": [
+          "bitcoin",
+          "solana"
+        ]
+      }
+    ],
+    "tether": [
+      {
+        "source": "CoinDesk",
+        "title": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
+        "link": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
+        "published": "2026-11-16 15:54:11+00:00",
+        "summary": "A central bank official reportedly said legitimate funds become tainted when moved into stablecoins, comparing the market to the informal \"d\u00f3lar-cabo\" system.",
+        "coins": [
+          "tether"
+        ]
+      },
+      {
+        "source": "Cointelegraph",
+        "title": "Zelle picks Solana for ZelleUSD stablecoin and international payments",
+        "link": "https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "2026-11-16 14:55:46+00:00",
+        "summary": "Zelle plans to use Solana for its ZelleUSD stablecoin and international payments, with confidential transfers designed to hide payment amounts.",
+        "coins": [
+          "solana",
+          "tether"
+        ]
+      },
+      {
+        "source": "Decrypt",
+        "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
+        "link": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
+        "published": "2026-11-15 16:01:02+00:00",
+        "summary": "From Goldman and Citi\u2019s $270 million \u201cProject Faro\u201d to SoFi, Anchorage, Mastercard, Visa and Circle, traditional finance is racing to claim the onchain dollar once dominated by Tether and Circle.",
+        "coins": [
+          "tether"
+        ]
+      },
+      {
+        "source": "CoinDesk",
+        "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+        "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+        "published": "2026-11-15 02:50:57+00:00",
+        "summary": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets.",
+        "coins": [
+          "tether"
+        ]
+      }
+    ],
+    "general": [
+      {
+        "source": "Cointelegraph",
+        "title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
+        "link": "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "2026-11-17 01:02:05+00:00",
+        "summary": "Researchers say attackers compromised scripts delivered through Optimizely, exposing visitors to malware designed to replace crypto wallet addresses and steal payment card details.",
+        "coins": []
+      },
+      {
+        "source": "CryptoSlate",
+        "title": "Louisiana blocks prediction markets and threatens $370M in revenue from exchanges",
+        "link": "https://cryptoslate.com/louisiana-blocks-prediction-markets-and-threatens-370m-in-revenue-from-exchanges/",
+        "published": "2026-11-17 00:50:05+00:00",
+        "summary": "The order covers brokerage, clearing and settlement as well as exchanges. Its effects on customer trading remain unconfirmed. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+        "coins": []
+      },
+      {
+        "source": "Cointelegraph",
+        "title": "Nvidia shares fall 4% as board reportedly rules out Huang return",
+        "link": "https://cointelegraph.com/news/nvidia-shares-fall-4-as-board-reportedly-rules-out-huang-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "2026-11-16 23:50:41+00:00",
+        "summary": "The chipmaker\u2019s board is reportedly focused on investigating Huang\u2019s conduct, even as a petition calling for his reinstatement gathers more than 187,000 signatures.",
+        "coins": []
+      },
+      {
+        "source": "CryptoSlate",
+        "title": "Aave\u2019s revenue falls $10M in Q3, but one metric tells a new story",
+        "link": "https://cryptoslate.com/aaves-revenue-falls-10m-in-q3-but-one-metric-tells-a-new-story/",
+        "published": "2026-11-16 23:30:57+00:00",
+        "summary": "Aave Labs\u2019 quarterly breakdown shows lower liquidation receipts explain 39% of the revenue decline, while a separate dashboard reports rising net income. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your ",
+        "coins": []
+      },
+      {
+        "source": "The Block",
+        "title": "CFTC backs blockchain-based derivatives infrastructure as Backpack, tZERO win approvals",
+        "link": "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591",
+        "published": "2026-11-16 23:27:15+00:00",
+        "summary": "The CFTC has approved the first set of applications to establish regulated derivatives and exchange clearing operations that use blockchain.",
+        "coins": []
+      },
+      {
+        "source": "Cointelegraph",
+        "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
+        "link": "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "2026-11-16 22:54:57+00:00",
+        "summary": "The Supreme Court refused to hear Custodia Bank\u2019s appeal, meaning a lower court ruling allowing the Fed to reject account applications will stand.",
+        "coins": []
+      },
+      {
+        "source": "Cointelegraph",
+        "title": "German lawmakers back crypto freezes outside criminal cases",
+        "link": "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "2026-11-16 22:46:44+00:00",
+        "summary": "Customs authorities could hold \u201csuspicious\u201d assets for 30 days under the bill, with court oversight for extensions and disputed confiscation.",
+        "coins": []
+      },
+      {
+        "source": "Decrypt",
+        "title": "Alibaba's Qwen 4 Max Leads China's AI Agent Race\u2014But You Can't Download It",
+        "link": "https://decrypt.co/383395/alibaba-qwen-4-max-leads-china-ai-agent-race-cant-download-it",
+        "published": "2026-11-16 22:46:02+00:00",
+        "summary": "Alibaba's new flagship jumps ahead of Chinese rivals on agent and web design leaderboards, with cheaper API access. The closed model also previews the next generation of open Qwen releases.",
+        "coins": []
+      }
+    ]
+  },
+  "alerts": [],
+  "errors": [
+    "BTC hashrate: ConnectTimeout: HTTPSConnectionPool(host='mempool.space', port=443): Max retries exceeded with url: /api/v1/mining/hashrate/3d (Caused by ConnectTimeoutError(<HTTPSConnection(host='mempool.space', port=443) at 0x1074f3250>, 'Connection to mempool.space timed out. (connect timeout=8)'))",
+    "BTC network (mempool.space): no answer within 45s, skipped"
+  ],
+  "live": 2.0
+}
